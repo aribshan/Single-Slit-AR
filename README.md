@@ -1,2 +1,2 @@
 # Single-Slit-AR
- Single slit diffraction in AR
+ This is an AR application for visualizing the single slit diffraction experiment in AR.
